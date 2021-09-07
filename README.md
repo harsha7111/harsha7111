@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @harsha7111
+- 👋 Hi, I’m harsha
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning React, Vuejs
 - 📫 How to reach me harshatalks7111@gmail.com
