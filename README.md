@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @harsha7111
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning Vuejs
-- 💞️ I’m looking to collaborate on front end
+- 🌱 I’m currently learning React, Vuejs
 - 📫 How to reach me harshatalks7111@gmail.com
 
 <!---
