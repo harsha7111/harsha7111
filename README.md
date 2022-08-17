@@ -1,7 +1,6 @@
 - 👋 Hi, I’m harsha
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning React, Vuejs
-- 📫 How to reach me harshatalks7111@gmail.com
+- 📫 reach me harshatalks7111@gmail.com
 
 <!---
 harsha7111/harsha7111 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
