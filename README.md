@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **javascript, react, html,css**
 
-- 📫 How to reach me **harshatalks7111@gmail.com**
+- 📫 How to reach me **harsha.deshmukh432@gmail.com**
 
 - ⚡ Fun fact **I like art**
 
